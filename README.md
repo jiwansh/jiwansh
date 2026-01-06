@@ -1,7 +1,7 @@
 <!-- 💖 Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+JK!;Backend+Developer+%7C+Java+%26+Spring+Boot;DSA+Enthusiast+%7C+Exploring+AI+%26+DevOps" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+JK!;Backend+Developer+%7C+Java+%26+Spring+Boot;DSA+Enthusiast+%7C+Exploring+the+World+of+Tech!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -15,9 +15,10 @@
 <br/>
 
 <!-- 💛 Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](❓YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](❓YOUR_LEETCODE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](❓YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiwanshu-%E2%80%8E-9b848725a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jiwanshu/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/amanjiwlah7)
+
 
 <br/>
 
@@ -26,11 +27,10 @@
 <summary><b>About Me</b></summary>
 <br>
 
-- 🎓 Computer Science student passionate about **backend engineering**
-- 🔭 Building **Spring Boot & Microservices-based applications**
-- 🧠 Strong focus on **DSA patterns & problem-solving**
-- 🌱 Currently learning **System Design, DevOps basics & Generative AI**
-- ⚡ Belief: *Strong fundamentals > fancy frameworks*
+- Information Technology student passionate about **backend engineering**
+- Building **Spring Boot & Microservices-based applications**
+- Strong focus on **DSA patterns & problem-solving**
+- Belief: *Strong fundamentals > fancy frameworks*
 
 </details>
 
@@ -67,8 +67,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 <!-- Exploring -->
-![DevOps](https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge)&nbsp;
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![Blockchain](https://img.shields.io/badge/Blockchain-0F172A?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+
 
 </details>
 
