@@ -1,7 +1,7 @@
 <!-- 💖 Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+JK!;Backend+Developer+%7C+Java+%26+Spring+Boot;DSA+Enthusiast+%7C+Exploring+the+World+of+Tech!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+Jiwanshu+Kumar!;Backend+Developer+%7C+Java+%26+Spring+Boot;DSA+Enthusiast+%7C+Exploring+the+World+of+Tech!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -72,25 +72,8 @@
 
 
 </details>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiwansh&label=Visitors&color=181717&style=flat" /> </p>
 
-<br/>
-
-<!-- 📊 GitHub Stats -->
-<details open>
-<summary><b>GitHub Stats</b></summary>
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=❓YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=❓YOUR_USERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=❓YOUR_USERNAME&theme=tokyonight)
-
-</details>
-
-<br/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=❓YOUR_USERNAME&label=Profile%20Views&color=0EA5E9&style=flat" />
-</p>
 
 <br/>
 
@@ -103,4 +86,4 @@
 <br/>
 
 <!-- 💖 Contact -->
-### 📫 Reach me at: **❓YOUR_EMAIL**
+### 📫 Reach me at: **j1w4n5hu@gmail.com**
