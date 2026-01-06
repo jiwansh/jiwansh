@@ -1,77 +1,105 @@
-## Hey there 👋 I'm JK  
+<!-- 💖 Typing animation introduction -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+JK!;Backend+Developer+%7C+Java+%26+Spring+Boot;DSA+Enthusiast+%7C+Exploring+AI+%26+DevOps" alt="Typing SVG"/>
+  </a>
+</div>
 
-Backend Developer | Java & Spring Boot | DSA Enthusiast | Exploring AI & DevOps  
+<br/>
 
-I enjoy building **real-world backend systems**, solving problems with **strong fundamentals**,  
-and continuously learning how scalable systems work under the hood.
+<!-- 💜 Animated welcome GIF -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif">
+</h2>
 
----
+<br/>
 
-### 🚀 About Me
-- 🔭 Currently working on **Spring Boot & Microservices projects**
-- 🌱 Learning **System Design, DevOps basics, and Generative AI**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, DSA**
-- 🧠 Strong believer in *"learn by building"*
-- ⚡ Fun fact: I like breaking systems just to understand how they work
+<!-- 💛 Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](❓YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](❓YOUR_LEETCODE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](❓YOUR_PORTFOLIO)
 
----
+<br/>
 
-### 🛠️ Tech Stack
-**Languages:**  
-Java, SQL, JavaScript  
+<!-- 💗 About Me -->
+<details open>
+<summary><b>About Me</b></summary>
+<br>
 
-**Backend:**  
-Spring Boot, REST APIs, JPA/Hibernate  
+- 🎓 Computer Science student passionate about **backend engineering**
+- 🔭 Building **Spring Boot & Microservices-based applications**
+- 🧠 Strong focus on **DSA patterns & problem-solving**
+- 🌱 Currently learning **System Design, DevOps basics & Generative AI**
+- ⚡ Belief: *Strong fundamentals > fancy frameworks*
 
-**Frontend (Basics):**  
-React, HTML, CSS  
+</details>
 
-**Databases:**  
-MySQL  
+<br/>
 
-**Tools & Platforms:**  
-Git, GitHub, Postman, IntelliJ, VS Code  
+<!-- 💗 Skills & Tools Section -->
+<details open>
+<summary><b>Skills & Tools</b></summary>
+<br>
 
----
+<!-- Core Programming -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-### 📌 Featured Projects
-🔹 **Microservices-based Quiz App**  
-Spring Boot | REST | Service-to-Service Communication  
+<!-- Backend -->
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)&nbsp;
+![Microservices](https://img.shields.io/badge/Microservices-6366F1?style=for-the-badge)&nbsp;
 
-🔹 **Job Portal Application**  
-Spring Boot + MySQL | Authentication | CRUD  
+<!-- Frontend (Basics) -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-🔹 **Blockchain Certificate Verification System**  
-Solidity | Web3.js | IPFS  
+<!-- Databases -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-🔹 **Online Reservation System**  
-Java + MySQL | Core Java + JDBC  
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
-👉 More projects inside repositories ↓
+<!-- Exploring -->
+![DevOps](https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge)&nbsp;
+![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
----
+</details>
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<!-- 📊 GitHub Stats -->
+<details open>
+<summary><b>GitHub Stats</b></summary>
+<br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=❓YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=❓YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=❓YOUR_USERNAME&theme=tokyonight)
 
----
+</details>
 
-### 🧩 DSA & Problem Solving
-- Following **Striver’s DSA Sheet**
-- Focus on **patterns, intuition & interview recall**
-- Regular practice on **LeetCode / Codeforces**
+<br/>
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=❓YOUR_USERNAME&label=Profile%20Views&color=0EA5E9&style=flat" />
+</p>
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](YOUR_LEETCODE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)](YOUR_PORTFOLIO)
+<br/>
 
----
+<!-- 🐍 Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
 
-⭐ If you like my work, consider starring my repositories!
+<br/>
+
+<!-- 💖 Contact -->
+### 📫 Reach me at: **❓YOUR_EMAIL**
