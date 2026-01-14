@@ -1,7 +1,7 @@
 <!-- 💖 Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+Jiwanshu+Kumar!;Backend+Developer+%7C+Java+%26+Spring+Boot;DSA+Enthusiast+%7C+Exploring+the+World+of+Tech!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+Jiwanshu!;Backend+Developer+%7C+Java+%26+Spring+Boot;DSA+Enthusiast+%7C+Exploring+the+World+of+Tech!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -27,7 +27,7 @@
 <summary><b>About Me</b></summary>
 <br>
 
-- Information Technology student passionate about **backend engineering**
+- IT student passionate about **backend engineering**
 - Building **Spring Boot & Microservices-based applications**
 - Strong focus on **DSA patterns & problem-solving**
 - Belief: *Strong fundamentals > fancy frameworks*
@@ -42,17 +42,25 @@
 <br>
 
 <!-- Core Programming -->
+**Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- Backend -->
+**Framework and Tools:**
+![Spring Framework](https://img.shields.io/badge/Spring%20framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)&nbsp;
 ![Microservices](https://img.shields.io/badge/Microservices-6366F1?style=for-the-badge)&nbsp;
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
 <!-- Frontend (Basics) -->
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -64,7 +72,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 <!-- Exploring -->
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
