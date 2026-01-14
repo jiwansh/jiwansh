@@ -42,7 +42,8 @@
 <br>
 
 <!-- Core Programming -->
-**Languages:**  
+**Languages:** 
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,6 +53,7 @@
 
 <!-- Backend -->
 **Framework and Tools:**
+<br>
 ![Spring Framework](https://img.shields.io/badge/Spring%20framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge)&nbsp;
